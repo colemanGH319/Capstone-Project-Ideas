@@ -5,5 +5,5 @@
   + Data Source: https://www.lendingclub.com/info/download-data.action
   
 ### 2. World Happiness Report
-  + Question: What factors contribute to a country having a high happiness score? Are there additional factors outside of this dataset that are worth considering for each country (i.e. military spending, education, HDI, weather)?
+  + Question: What factors contribute to a country having a high happiness score? Are there additional factors outside of this dataset that are worth considering for each country (e.g. military spending, education, HDI, weather)?
   + Data Source: https://www.kaggle.com/unsdsn/world-happiness
