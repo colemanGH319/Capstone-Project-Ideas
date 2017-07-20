@@ -1,0 +1,6 @@
+# Capstone Ideas
+
+### 1. Lending Club
+  + Question: What information can we use to predict which loans will yield the highest return on investment? Do certain attributes such as loan purpose or grade help us predict returns?
+  + Data Source: https://www.lendingclub.com/info/download-data.action
+  
