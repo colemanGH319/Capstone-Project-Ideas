@@ -1,0 +1,6 @@
+# Capstone Ideas
+
+### 1. Lending Club
+  + Question: What information can we use to predict which loans are most likely go into default? Are there components of an loan application that would allow us to assess the risk of the applicant defaulting?
+  + Data Source: https://www.lendingclub.com/info/download-data.action
+ 
